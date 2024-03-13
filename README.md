@@ -1,9 +1,10 @@
-# I've joined the #100DaysOfCode Challenge
+#  #100DaysOfCode Challenge
+A Consistent Coding clhallenge to ensure dexterity in the Programming Laguages I've learnt
 
 ## Contents
 
-- [Rules](rules.md)
-- [Log - click here to see my progress](log.md)
+- [Progress_tracker - click here to see my progress](Progress_tracker.md)
+- [Rules](Guiding_rules.md)
 - [Log Summary](#log-summary)
 
 ## Log Summary
