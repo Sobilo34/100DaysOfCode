@@ -9,9 +9,7 @@ A Consistent Coding clhallenge to ensure dexterity in the Programming Laguages I
 
 ## Summary
 
-**This is a summary of my activites log.**
-
-**For full details of my progress, check the [log](log.md) file**
+**Full details of my progress in [Progress_tracker](Progress_tracker.m)**
 
 |Day|Focus|Day|Focus|
 |:---:|:----:|:---:|:----:|
