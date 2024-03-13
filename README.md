@@ -4,7 +4,7 @@ A Consistent Coding clhallenge to ensure dexterity in the Programming Laguages I
 ## Contents
 
 - [Progress_tracker](Progress_tracker.md)
-- [Rules](My_guding_rules.md)
+- [Guding Rules](My_guding_rules.md)
 - [Summary](#Summary)
 
 ## Summary
