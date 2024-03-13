@@ -14,7 +14,7 @@ A Consistent Coding clhallenge to ensure dexterity in the Programming Laguages I
 |Day|Acheivement|Day|Achivement|
 |:---:|:----:|:---:|:----:|
 |[Day 1](log.md#day-0-october-29-2023) **13/03/24**| **JavaScript:** Test-Driven Development - The use of the `doctest` module| [Day 1](log.md#day-1-october-30-2023) **30/10/23**| **Python:** Data Encapsulation - the use of access specifiers, getters and setters |
-
+<!--
 |[Day 2](log.md#day-2-october-31-2023) **31/10/23**| **C lang.:** Simple Calculator that performs basic operations.|[Day 3](log.md#day-3-november-1-2023) **01/11/23**| **C lang.:** Hello World challenge, Hackerrank. |
 |[Day 4](log.md#day-4-november-2-2023) **02/11/23**| **C lang.:** Playing with characters challenge, HackerRank|[Day 5](log.md#day-5-november-3-2023) **03/11/23** | **C lang.:** Hash Tables: Creating, Inserting, Searching, Deleting. etc|
 |[Day 6](log.md#day-6-november-4-2023) **04/11/23**| **C lang.:** The max function challenge, hackerRank - reading four arguments and returning the greatest|[Day 7](log.md#day-7-november-5-2023) **05/11/23**| **C lang.:** Pointers challenge, hackerRank -  implementing basic functionalities of pointers in C | 
@@ -65,18 +65,10 @@ A Consistent Coding clhallenge to ensure dexterity in the Programming Laguages I
 |[Day 96](log.md#day-96-february-02-2024) **02/02/24**| **Python**: AirBnB clone - Deploy static, HTTPS , SSL , |[Day 97](log.md#day-97-february-03-2024) **03/02/24**| HTTPS , SSL , |
 |[Day 98](log.md#day-98-february-04-2024) **04/02/24**| **Python**: AirBnB clone - Deploy static, HTTPS |[Day 99](log.md#day-99-february-05-2024) **05/02/24**| **C lang**: Search Algorithm |
 |[Day 100](log.md#day-100-february-06-2024) **06/03/24**| **Python**: Django Assigment && Importation business Website |
+-->
 
 
-
-## Note
-
-- If you have any questions about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@hunterxcobby](https://twitter.com/hunterxcobby)
-- If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) and forking it :)
-
- 
-## Contact
-
-Feel free to reach out to me through any of the following channels:
+## My Contact
 
 [![Beacons.ai Profile](https://img.shields.io/badge/Beacons.ai-cobbysefah-9cf?style=for-the-badge&logo=beacons&color=blue)](https://beacons.ai/cobbysefahsolomon)
 
