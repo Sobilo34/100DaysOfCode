@@ -3,8 +3,8 @@ A Consistent Coding clhallenge to ensure dexterity in the Programming Laguages I
 
 ## Contents
 
-- [Progress_tracker - click here to see my progress](Progress_tracker.md)
-- [Rules](Guiding_rules.md)
+- [Progress_tracker](Progress_tracker.md)
+- [Rules](My_guding_rules.md)
 - [Log Summary](#log-summary)
 
 ## Log Summary
