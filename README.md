@@ -5,9 +5,9 @@ A Consistent Coding clhallenge to ensure dexterity in the Programming Laguages I
 
 - [Progress_tracker](Progress_tracker.md)
 - [Rules](My_guding_rules.md)
-- [Log Summary](#log-summary)
+- [Summary](#Summary)
 
-## Log Summary
+## Summary
 
 **This is a summary of my activites log.**
 
