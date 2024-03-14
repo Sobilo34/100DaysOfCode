@@ -15,6 +15,7 @@
 - Many Live examples have been solved to explain the concept. View the codes in the link below:
 
 **View Codes Here:** [Code_directory](https://github.com/Sobilo34/my_practice/tree/main/Javascipt/javascript_objects_scopes_closures)
+
 **View Tweet:** [Day_01_tweet](https://twitter.com/sobil56/status/1768012295915860385?t=sb10jrPu8egsCjnSUQFI8g&s=19)
 
 
