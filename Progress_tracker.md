@@ -3,7 +3,7 @@
 ## Day_01: Wed March 13, 2024 
 
 
-**Daily Progress**:  Object, Scopes and Closures In JavaScript
+**Topic**:  Object, Scopes and Closures In JavaScript
 
 **Notes:**
 
