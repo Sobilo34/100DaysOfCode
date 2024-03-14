@@ -11,4 +11,4 @@ Wed 13th March, 2024.
 2. If I code at work, that time won't count towards the challenge.
 3. I will push code to GitHub every day so that anyone can see my progress.
 4. I will update the [Progress_tracker](Progress_tracker.md) with the day's progress and provide a link so that others can see my progress.
-5. I will work on real projects, facing real challenges. 
+5. I will work on real projects and solve problems to be ready for Job In the next One-Year 
