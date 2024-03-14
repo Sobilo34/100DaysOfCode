@@ -12,7 +12,7 @@
 - It does what a function do in Procedural Oriented Programming
 - Scopes in JS is what determines the accessibility and visibility of different variables, objects, and functions
 - Closures are functions that encapsulate variables from their parent functions
-- Many Live examples have been solved to explain the concept. View the code in the link below:
+- Many Live examples have been solved to explain the concept. View the codes in the link below:
 
 **View Codes Here:** [Code_directory](https://github.com/Sobilo34/my_practice/tree/main/Javascipt/javascript_objects_scopes_closures)
 
