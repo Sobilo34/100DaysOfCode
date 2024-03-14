@@ -13,8 +13,7 @@ A Consistent Coding clhallenge to ensure dexterity in the Programming Laguages I
 
 |Day|Acheivement|Day|Achivement|
 |:---:|:----:|:---:|:----:|
-|[Day 01](Progress_tracker.md#day-0-october-29-2023) **13/03/24**| **JavaScript:** Objects,Scopes and Closure - How use Objects, Scopes and Closure In JavaScript
-[**View Code**](https://github.com/Sobilo34/my_practice/tree/main/Javascipt/javascript_objects_scopes_closures) | [Day 02](Progress_tracker.md#day-1-october-30-2023) **14/03/24**| **Python:** NIL - the use of access specifiers, getters and setters |
+|[Day 01](Progress_tracker.md#day-0-october-29-2023) **13/03/24**| **JavaScript:** Objects,Scopes and Closure - How use Objects, Scopes and Closure In JavaScript    [**View Code**](https://github.com/Sobilo34/my_practice/tree/main/Javascipt/javascript_objects_scopes_closures) | [Day 02](Progress_tracker.md#day-1-october-30-2023) **14/03/24**| **Python:** NIL - the use of access specifiers, getters and setters |
 <!--
 |[Day 2](log.md#day-2-october-31-2023) **31/10/23**| **C lang.:** Simple Calculator that performs basic operations.|[Day 3](log.md#day-3-november-1-2023) **01/11/23**| **C lang.:** Hello World challenge, Hackerrank. |
 |[Day 4](log.md#day-4-november-2-2023) **02/11/23**| **C lang.:** Playing with characters challenge, HackerRank|[Day 5](log.md#day-5-november-3-2023) **03/11/23** | **C lang.:** Hash Tables: Creating, Inserting, Searching, Deleting. etc|
