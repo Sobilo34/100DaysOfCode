@@ -1,25 +1,23 @@
-# 100 Days Of Code -  Progress Log
+# 100 Days Of Code -  Progress Tracker
 
-### This is a round 1 of my 100DaysOfCode challenge.
-
-
-## Day 0: October 29, 2023 
+## Day_01: Wed March 13, 2024 
 
 
-**Today's Progress**:  Test-Driven Development, Python(The Docstring Module)
+**Daily Progress**:  Object, Scopes and Closures In JavaScript
 
-**Thoughts:**
+**Notes:**
 
-- I started implementing the use of the `doctest module` to test my codes and I also discovered the `"unittest"`.
-- There are a lot of flag options you can add to make the testing easier.
-- I always write notes with sample codes as to help new learners and the future me as a reference.
-- The link to the sample codes is down below
-- Like usual, starting to learn something new is a bit challenging but with the right mindset, you we figure it out!
+- A coding practice on my just completed Alx-Project on Objects, scopes and closures in JavaScript.
+- Objects are special types of functions that makes coding easier with a define way of coding.  
+- It does what a function do in Procedural Oriented Programming
+- Scopes in JS is what determines the accessibility and visibility of different variables, objects, and functions
+- Closures are functions that encapsulate variables from their parent functions
+- Many Live examples have been solved to explain the concept. View the code in the link below:
 
-**Link to work:** [TDD notes](https://github.com/hunterxcobby/Python-Projects/tree/main/lessons/exercises/13-TDD)
+**View Codes Here:** [Code_directory](https://github.com/Sobilo34/my_practice/tree/main/Javascipt/javascript_objects_scopes_closures)
 
 
-
+<!--
 ## Day 1: October 30, 2023 
 
 
@@ -2971,3 +2969,4 @@ These tasks involved code review, SQL script creation, and Python class updates 
    - Provided steps to resolve import errors with `rest_framework`, including installing Django REST Framework, checking installed packages, ensuring correct Django settings, and rebuilding environment if using Docker.
 
 **link to TASK:** [Django assignment](https://github.com/hunterxcobby/WEB-DEV_learning/tree/main/django-2)
+-->
