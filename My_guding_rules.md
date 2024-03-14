@@ -1,14 +1,14 @@
-# Rules of the 100 Days Of Code Challenge
-
-## Main Commitment
-### *I will code for at least an hour every day for the next 100 days.*
+# Rules and Regulations of the 100 Days Of Code Challenge
 
 #### Start Date
-October 29th, 2023.
+Wed 13th March, 2024.
+
+## Challenge Pledge
+### *I must code for at least an hour every day for the next 100 days.*
 
 ## Additional Rules
-1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
+1. I will tweet about my progress every day -> using the hashtag #100DaysOfALXSE, #100DaysOfCode and #LearnInPublic
 2. If I code at work, that time won't count towards the challenge.
 3. I will push code to GitHub every day so that anyone can see my progress.
-4. I will update the [Log](log.md) with the day's progress and provide a link so that others can see my progress.
-5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. 
+4. I will update the [Progress_tracker](Progress_tracker.md) with the day's progress and provide a link so that others can see my progress.
+5. I will work on real projects, facing real challenges. 
