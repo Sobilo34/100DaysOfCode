@@ -11,7 +11,7 @@ A Consistent Coding clhallenge to ensure dexterity in the Programming Laguages I
 
 **Full details of my progress in [Progress_tracker](Progress_tracker.m)**
 
-|Day|Acheivement|Day|Achivement|
+|Day|Topic|Day|Topic|
 |:---:|:----:|:---:|:----:|
 |[Day 01](Progress_tracker.md#day-0-october-29-2023) **13/03/24**| **JavaScript:** Objects,Scopes and Closure - How use Objects, Scopes and Closure In JavaScript [**View Code**](https://github.com/Sobilo34/my_practice/tree/main/Javascipt/javascript_objects_scopes_closures)  | [Day 02](Progress_tracker.md#day-1-october-30-2023) **14/03/24**| **Python:** NIL - the use of access specifiers, getters and setters |
 <!--
