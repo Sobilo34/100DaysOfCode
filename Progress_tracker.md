@@ -8,7 +8,7 @@
 
 **Notes:**
 
-- A coding practice on my just completed Alx-Project on Objects, scopes and closures in JavaScript.
+- A coding practice was done on my just completed Alx-Project on Objects, scopes and closures in JavaScript.
 - Objects are special types of functions that makes coding easier with a defined way of coding.  
 - It does what a function do in Procedural Oriented Programming
 - Scopes in JS is what determines the accessibility and visibility of different variables, objects, and functions
