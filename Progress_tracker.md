@@ -18,7 +18,7 @@
 **Challenges:**
 I have no challenge
 
-**View Codes Here:** [Code_directory](https://github.com/Sobilo34/my_practice/tree/main/Javascipt/javascript_objects_scopes_closures)
+**View Codes Here:** [Code_directory](https://github.com/Sobilo34/my_practice/tree/main/Javascipt/Day_01_100DaysOfCode_javascript)
 
 **View Tweet:** [Day_01_tweet](https://twitter.com/sobil56/status/1768012295915860385?t=sb10jrPu8egsCjnSUQFI8g&s=19)
 
