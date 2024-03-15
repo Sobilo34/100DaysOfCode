@@ -37,7 +37,7 @@ I have no challenge
 -  The program receives String for a User and prints out the ASCII value of it lowercase
 
 **Challenges:**
-I have network Isuue which makes me to submit lately. The network Issue is common to all Nigerians🤦‍♂️
+I have network Isuue which makes me to submit lately. The network Issue is common to all Nigerians today 🤦‍♂️
 
 **View Codes Here:** [Code_File](https://github.com/Sobilo34/my_practice/blob/main/C-Language/Day_02_100DaysOfCode.c)
 
