@@ -41,5 +41,5 @@ I have network Isuues which makes me to submit lately. The network Issue is comm
 
 **View Codes Here:** [Code_File](https://github.com/Sobilo34/my_practice/blob/main/C-Language/Day_02_100DaysOfCode.c)
 
-**View Tweet:** [Day_01_tweet](https://twitter.com/sobil56/status/1768459804375204035?t=SzJhkt16QjD0Ryl5hEehRw&s=19)
+**View Tweet:** [Day_02_tweet](https://twitter.com/sobil56/status/1768459804375204035?t=SzJhkt16QjD0Ryl5hEehRw&s=19)
 
