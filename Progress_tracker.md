@@ -31,10 +31,10 @@ I have no challenge
 
 **Notes:**
 
-- I revise the concept of Pointers, Arrays and Srings
-- I revisit my project that is did on it earlier 
--  I write a program that to learn more about this concept
--  The program recieves String for a User and print out the ASCII value of it lowercase
+- I revise the concept of Pointers, Arrays and Strings
+- I revisit the projects that I did on it earlier 
+-  I write a program to learn more about the concept
+-  The program receives String for a User and print out the ASCII value of it lowercase
 
 **Challenges:**
 I have network Isuues which makes me to submit lately. The network Issue is common to all Nigerians🤦‍♂️
