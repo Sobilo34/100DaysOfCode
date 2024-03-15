@@ -3,6 +3,7 @@
 ## Day_01: Wed March 13, 2024 
 
 **Language**: JavaScript
+
 **Topic**:  Object, Scopes and Closures In JavaScript
 
 **Notes:**
@@ -16,6 +17,7 @@
 
 **Challenges:**
 I have no challenge
+
 **View Codes Here:** [Code_directory](https://github.com/Sobilo34/my_practice/tree/main/Javascipt/javascript_objects_scopes_closures)
 
 **View Tweet:** [Day_01_tweet](https://twitter.com/sobil56/status/1768012295915860385?t=sb10jrPu8egsCjnSUQFI8g&s=19)
@@ -24,6 +26,7 @@ I have no challenge
 ## Day_02: Thur March 14, 2024 
 
 **Language**: C
+
 **Topic**:  Pointers, Arrays and Strings
 
 **Notes:**
