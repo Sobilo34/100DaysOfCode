@@ -9,7 +9,7 @@ A Consistent Coding clhallenge to ensure dexterity in the Programming Laguages I
 
 ## Summary
 
-**Full details of my progress in [Progress_tracker](Progress_tracker.m)**
+**Full details of my progress in [Progress_tracker](Progress_tracker.md)**
 
 |Day|Topic|Day|Topic|
 |:---:|:----:|:---:|:----:|
