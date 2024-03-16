@@ -43,3 +43,28 @@ I have network Isuue which makes me to submit lately. The network Issue is commo
 
 **View Tweet:** [Day_02_tweet](https://twitter.com/sobil56/status/1768459804375204035?t=SzJhkt16QjD0Ryl5hEehRw&s=19)
 
+
+## Day_03: Fri March 15, 2024 
+
+**Language**: Python
+
+**Topic**:  If...Else Statements
+
+**Notes:**
+
+- I revise conditional statements in python particularly If...else statement
+- I built a BMI(Body Mass Index) calculator for an individulat with his height and weight
+- 
+
+**Challenges:**
+I also have network Isuue which makes me to submit lately. The network Issue is common to all Nigerians
+
+**View Codes Here:** [Code_File](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_03_100DaysOfCode.py)
+
+**View Tweet:** [Day_03_tweet](https://twitter.com/sobil56/status/1768459804375204035?t=SzJhkt16QjD0Ryl5hEehRw&s=19)
+
+
+
+
+
+
