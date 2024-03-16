@@ -48,7 +48,7 @@ I have network Isuue which makes me to submit lately. The network Issue is commo
 
 **Language**: Python
 
-**Topic**:  If...Else Statements
+**Topic**: Conditional Statements (If...Else Statements)
 
 **Notes:**
 
