@@ -64,7 +64,7 @@ I also have network Isuue which makes me to submit lately. The network Issue is 
 
 **View Codes Here:** [Code_File](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_03_100DaysOfCode.py)
 
-**View Tweet:** [Day_03_tweet](https://twitter.com/sobil56/status/1768459804375204035?t=SzJhkt16QjD0Ryl5hEehRw&s=19)
+**View Tweet:** [Day_03_tweet](https://twitter.com/sobil56/status/1768759056473174436?t=KvzaEann3kt2gyfMdMjWyA&s=19)
 
 
 
