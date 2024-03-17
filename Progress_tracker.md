@@ -77,9 +77,9 @@ I also have network Isuue which makes me to submit lately. The network Issue is 
 **Notes:**
 
 - I revise conditional statements in C language particularly If...else statement
-- I built a leap hear calculator in C
-- If a year (a particular value) is being input to the program, it will find out if it's a leap year or not.
-- It will give message to the user telling if it's a leap year or not 
+- I built a leap hear calculator with C
+- If a year (a particular value) is being given to the program, it will calculates if it's a leap year or not.
+- It will then give message to the user telling if it's a leap year or not 
 
 **Challenges:**
 The network Isuue still persist which makes me to submit lately. It's really affecting my progress 
