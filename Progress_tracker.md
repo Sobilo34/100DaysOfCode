@@ -44,7 +44,7 @@ I have network Isuue which makes me to submit lately. The network Issue is commo
 **View Tweet:** [Day_02_tweet](https://twitter.com/sobil56/status/1768459804375204035?t=SzJhkt16QjD0Ryl5hEehRw&s=19)
 
 
-## Day_03: Fri March 15, 2024 
+## Day_03: Sat March 16, 2024 
 
 **Language**: C language 
 
