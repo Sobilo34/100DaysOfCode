@@ -46,6 +46,27 @@ I have network Isuue which makes me to submit lately. The network Issue is commo
 
 ## Day_03: Fri March 15, 2024 
 
+**Language**: C language 
+
+**Topic**: Conditional Statements (More If...Else Statements)
+
+**Notes:**
+
+- I revise conditional statements in C language particularly If...else statement
+- I built a leap hear calculator in C
+- If a year (a particular value) is being input to the program, it will find out if it's a leap year or not.
+- It will give message to the user telling if it's a leap year or not 
+
+**Challenges:**
+The network Isuue still persist which makes me to submit lately. It's really affecting my progress 
+
+**View Codes Here:** [Code_File](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_03_100DaysOfCode.py)
+
+**View Tweet:** [Day_04_tweet](https://twitter.com/sobil56/status/1768759056473174436?t=KvzaEann3kt2gyfMdMjWyA&s=19)
+
+
+## Day_03: Fri March 15, 2024 
+
 **Language**: Python
 
 **Topic**: Conditional Statements (If...Else Statements)
@@ -65,6 +86,7 @@ I also have network Isuue which makes me to submit lately. The network Issue is 
 **View Codes Here:** [Code_File](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_03_100DaysOfCode.py)
 
 **View Tweet:** [Day_03_tweet](https://twitter.com/sobil56/status/1768759056473174436?t=KvzaEann3kt2gyfMdMjWyA&s=19)
+
 
 
 
