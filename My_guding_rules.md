@@ -1,4 +1,4 @@
-# Rules and Regulations of the 100 Days Of Code Challenge
+# Rules and Regulations guiding the 100 Days Of Code Challenge
 
 #### Start Date
 Wed 13th March, 2024.
