@@ -56,7 +56,7 @@ I have network Isuue which makes me to submit lately. The network Issue is commo
 - I built a BMI calculator for an individulal user
 - The full meaning of BMI is Body Mass Index
 - It return the person's weight(kg) divided by square of his height(m)
-- Formula for BMI = height(m)\weight(kg) ** 2
+- Formula for BMI = weight(kg) / height(m) ** 2
 - The Program categorizes each individuals to Underweight, Normal weight, Obesed and Clinically Obesed with respect to their BMI 
 
 **Challenges:**
