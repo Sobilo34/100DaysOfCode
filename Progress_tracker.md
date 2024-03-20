@@ -126,7 +126,7 @@ No significant challenges encountered
 
 **View Codes Here:** [Code_File](https://github.com/Sobilo34/my_practice/tree/main/Javascript/Day_06_100DaysOfCode_javascript)
 
-**View Tweet:** [Day_06_tweet](https://twitter.com/sobil56/status/1768012295915860385?t=sb10jrPu8egsCjnSUQFI8g&s=19)
+**View Tweet:** [Day_06_tweet](https://twitter.com/sobil56/status/1769864789738627261?t=p6ZfazTqDNw2DYTaIvdjlQ&s=19)
 
 ## Day_07: Tue March 19, 2024 
 
