@@ -89,6 +89,60 @@ The network Isuue still persist which makes me to submit lately. It's really aff
 **View Tweet:** [Day_04_tweet](https://twitter.com/sobil56/status/1768759056473174436?t=KvzaEann3kt2gyfMdMjWyA&s=19)
 
 
+## Day_05: Sun March 17, 2024 
+
+**Language**: Python
+
+**Topic**: Loops
+
+**Notes:**
+
+- Explored different types of loops in Python such as for loop and while loop
+- Implemented programs using loops to iterate over data structures and perform repetitive tasks
+
+**Challenges:**
+No specific challenges encountered
+
+**View Codes Here:** [Code_File](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_05_100DaysOfCode.py)
+
+**View Tweet:** [Day_05_tweet](https://twitter.com/sobil56/status/1768012295915860385?t=sb10jrPu8egsCjnSUQFI8g&s=19)
+
+## Day_06: Mon March 18, 2024 
+
+**Language**: JavaScript
+
+**Topic**: Functions
+
+**Notes:**
+
+- Learned about functions in JavaScript and their importance in organizing code and facilitating reusability
+- Wrote programs using various types of functions such as regular functions, arrow functions, and anonymous functions
+
+**Challenges:**
+No significant challenges encountered
+
+**View Codes Here:** [Code_File](https://github.com/Sobilo34/my_practice/tree/main/Javascript/Day_06_100DaysOfCode_javascript)
+
+**View Tweet:** [Day_06_tweet](https://twitter.com/sobil56/status/1768012295915860385?t=sb10jrPu8egsCjnSUQFI8g&s=19)
+
+## Day_07: Tue March 19, 2024 
+
+**Language**: MySQL
+
+**Topic**: Object Relational Mapper
+
+**Notes:**
+
+- Revised the concept of Object Relational Mapper (ORM)
+- Watched a recording of a session by a mentor and coded along with them to understand how ORM works
+- Explored libraries and frameworks that implement ORM for database management
+
+**Challenges:**
+Understanding the intricacies of ORM and mapping database objects to Python objects
+
+**View Codes Here:** [Code_File](https://github.com/Sobilo34/my_practice/tree/main/MySQL/Day_07_100DaysOfCode_SQL)
+
+**View Tweet:** [Day_07_tweet](https://twitter.com/sobil56/status/1768012295915860385?t=sb10jrPu8egsCjnSUQFI8g&s=19)
 
 
 
