@@ -124,7 +124,7 @@ No specific challenges encountered
 **Challenges:**
 No significant challenges encountered
 
-**View Codes Here:** [Code_File](https://github.com/Sobilo34/my_practice/tree/main/Javascript/Day_06_100DaysOfCode_javascript)
+**View Codes Here:** [Code_File](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_06_100DaysOfCode.py)
 
 **View Tweet:** [Day_06_tweet](https://twitter.com/sobil56/status/1769864789738627261?t=p6ZfazTqDNw2DYTaIvdjlQ&s=19)
 
