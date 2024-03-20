@@ -148,6 +148,8 @@ Understanding the intricacies of ORM and mapping database objects to Python obje
 **View Tweet:** [Day_07_tweet](https://twitter.com/sobil56/status/1770204351178354918?t=TK7HOGnN9p5rQtFb64aVHA&s=19)
 
 
+
+
 # My Contact
 
 [![Beacons.ai Profile](https://img.shields.io/badge/Beacon-Sobil-9cf?style=for-the-badge&logo=beacons&color=blue)](https://beacons.ai/sobil56)
