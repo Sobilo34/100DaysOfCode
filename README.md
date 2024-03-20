@@ -17,9 +17,9 @@
 | Day | Topic | Date | Description | Codebase |
 |:---:|:-----:|:----:|:------------|:-----|
 | 01 | **JavaScript**: Objects, Scopes and Closure | 13/03/24 | Learn about Objects, Scopes, and Closure in JavaScript | [**View Codes**](https://github.com/Sobilo34/my_practice/tree/main/Javascript/Day_01_100DaysOfCode_javascript) |
-| 02 | **C Lang.**: Pointers, Arrays and Strings | 14/03/24 | Revise the concept of Pointers, Arrays, and Strings in C and write a program with it | [**View Code**](https://github.com/Sobilo34/my_practice/blob/main/C-Language/Day_02_100DaysOfCode.c) |
+| 02 | **C Language**: Pointers, Arrays and Strings | 14/03/24 | Revise the concept of Pointers, Arrays, and Strings in C and write a program with it | [**View Code**](https://github.com/Sobilo34/my_practice/blob/main/C-Language/Day_02_100DaysOfCode.c) |
 | 03 | **Python**: If...Else Statements | 15/03/24 | Build a BMI Calculator to determine Underweight, Overweight, and Normal weight person | [**View Code**](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_03_100DaysOfCode.py) |
-| 04 | **C Lang.**: More If...Else Statements | 16/03/24 | Build a Leap Year Calculator to determine if a given year is a leap year | [**View Code**](https://github.com/Sobilo34/my_practice/blob/main/C-Language/Day_04_100DaysOfCode.c) |
+| 04 | **C Language**: More If...Else Statements | 16/03/24 | Build a Leap Year Calculator to determine if a given year is a leap year | [**View Code**](https://github.com/Sobilo34/my_practice/blob/main/C-Language/Day_04_100DaysOfCode.c) |
 | 05 | **JavaScript**: Web Interactivity | 17/03/24 | Added some interactivity to a website i'm building with my little knowlege in JavaScript | [**View Code**](https://github.com/Sobilo34/Crescent_MVP/blob/main/index.js) |
 | 06 | **Python**: Game finf the Treasure | 18/03/24 | Build a game that finds a treasure in a big house played by moving to diffent directions | [**View Code**](https://github.com/Sobilo34/my_practice/blob/main/C-Language/Day_04_100DaysOfCode.c) |
 | 07 | **MySQL**: Object Relational Mapper | 19/03/24 | Revised the concept of ORM by waching the recording of a session by a mentor and coding along side with him | [**View Codes**](https://github.com/Sobilo34/my_practice/tree/main/MySQL/Day_07_100DaysOfCode_SQL) |
