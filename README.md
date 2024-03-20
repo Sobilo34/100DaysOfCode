@@ -1,5 +1,5 @@
 #  #100DaysOfCode Challenge
-**A Consistent Coding clhallenge to ensure dexterity in the Programming Laguages I've learnt**
+**A Consistent Coding challenge to ensure dexterity in the Programming Laguages I've learnt**
 
 
 ![image](https://github.com/Sobilo34/100DaysOfCode/assets/122975292/c08ad6dd-aab1-4778-bcdb-9e9326487eef)
