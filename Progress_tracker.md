@@ -109,14 +109,16 @@ No specific challenges encountered
 
 ## Day_06: Mon March 18, 2024 
 
-**Language**: JavaScript
+**Language**: Python
 
-**Topic**: Functions
+**Topic**: Game that finds treasure 
 
 **Notes:**
 
-- Learned about functions in JavaScript and their importance in organizing code and facilitating reusability
-- Wrote programs using various types of functions such as regular functions, arrow functions, and anonymous functions
+- With my python knowledge, I built a game that finds a treasure in a big house
+- The game is played by moving to different direction.
+- If the user moves to the wrong direction, the game will be over.
+- I enjoyed playing with python 
 
 **Challenges:**
 No significant challenges encountered
