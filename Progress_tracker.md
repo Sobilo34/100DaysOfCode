@@ -91,14 +91,14 @@ The network Isuue still persist which makes me to submit lately. It's really aff
 
 ## Day_05: Sun March 17, 2024 
 
-**Language**: Python
+**Language**: JavaScript 
 
-**Topic**: Loops
+**Topic**: Website Interactivity 
 
 **Notes:**
 
-- Explored different types of loops in Python such as for loop and while loop
-- Implemented programs using loops to iterate over data structures and perform repetitive tasks
+- I used my little knowledge in JavaScript to update a project I'm working on currently 
+- The feature I added is a slide that slides different News/Events horizontally in a secondary school website 
 
 **Challenges:**
 No specific challenges encountered
