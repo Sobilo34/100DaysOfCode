@@ -145,7 +145,7 @@ Understanding the intricacies of ORM and mapping database objects to Python obje
 
 **View Codes Here:** [Code_File](https://github.com/Sobilo34/my_practice/tree/main/MySQL/Day_07_100DaysOfCode_SQL)
 
-**View Tweet:** [Day_07_tweet](https://twitter.com/sobil56/status/1768012295915860385?t=sb10jrPu8egsCjnSUQFI8g&s=19)
+**View Tweet:** [Day_07_tweet](https://twitter.com/sobil56/status/1770204351178354918?t=TK7HOGnN9p5rQtFb64aVHA&s=19)
 
 
 
