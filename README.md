@@ -9,7 +9,7 @@
 - [Progress_tracker](Progress_tracker.md)
 - [Guding Rules](My_guding_rules.md)
 - [Summary](#Summary)
-- [Codebase](#Summary)
+- [Codebase](https://github.com/Sobilo34/my_practice)
 
 
 ## Summary
