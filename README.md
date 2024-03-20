@@ -11,10 +11,15 @@ A Consistent Coding clhallenge to ensure dexterity in the Programming Laguages I
 
 **Full details of my progress in [Progress_tracker](Progress_tracker.md)**
 
-|Day|Topic|Day|Topic|
-|:---:|:----:|:---:|:----:|
-|[Day 01](Progress_tracker.md) **13/03/24**| **JavaScript:** Objects,Scopes and Closure - How use Objects, Scopes and Closure In JavaScript [**View Codes**](https://github.com/Sobilo34/my_practice/tree/main/Javascipt/Day_01_100DaysOfCode_javascript)  | [Day 02](Progress_tracker.md) **14/03/24**| **C Language:** Pointers, Arrays and Strings - Revise the concept of Pointers, Arrays and Strings in C ans wrote a program with it  [**View Code**](https://github.com/Sobilo34/my_practice/blob/main/C-Language/Day_02_100DaysOfCode.c)
-|[Day 03](Progress_tracker.md) **15/03/24**| **Python:** If...Else Statements - Build a BMI Calculator with it that determines Underwieght, Overweight and Normal weight person [**View Code**](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_03_100DaysOfCode.py)| [Day 04](Progress_tracker.md) **16/03/24**| **C language:** More If...Else Statements - Build a Leap year Calculator with the. concept [**View Code**](https://github.com/Sobilo34/my_practice/blob/main/C-language/Day_04_100DaysOfCode.c)| [Day 04](Progress_tracker.md) **16/03/24**| **C language:** More If...Else Statements - Build a Leap year Calculator with the. concept [**View Code**](https://github.com/Sobilo34/my_practice/blob/main/C-language/Day_04_100DaysOfCode.c)|[Day 04](Progress_tracker.md) **16/03/24**| **C language:** More If...Else Statements - Build a Leap year Calculator with the. concept [**View Code**](https://github.com/Sobilo34/my_practice/blob/main/C-language/Day_04_100DaysOfCode.c) |[Day 01](Progress_tracker.md) **13/03/24**| **JavaScript:** Objects,Scopes and Closure - How use Objects, Scopes and Closure In JavaScript [**View Codes**](https://github.com/Sobilo34/my_practice/tree/main/Javascipt/Day_01_100DaysOfCode_javascript)  | [Day 02](Progress_tracker.md) **14/03/24**| **C Language:** Pointers, Arrays and Strings - Revise the concept of Pointers, Arrays and Strings in C ans wrote a program with it  [**View Code**](https://github.com/Sobilo34/my_practice/blob/main/C-Language/Day_02_100DaysOfCode.c)
+| Day | Topic | Date | Description | Code |
+|:---:|:-----:|:----:|:------------|:-----|
+| 01 | JavaScript: Objects, Scopes and Closure | 13/03/24 | Learn about Objects, Scopes, and Closure in JavaScript | [View Codes](https://github.com/Sobilo34/my_practice/tree/main/Javascript/Day_01_100DaysOfCode_javascript) |
+| 02 | C Language: Pointers, Arrays and Strings | 14/03/24 | Revise the concept of Pointers, Arrays, and Strings in C and write a program with it | [View Code](https://github.com/Sobilo34/my_practice/blob/main/C-Language/Day_02_100DaysOfCode.c) |
+| 03 | Python: If...Else Statements | 15/03/24 | Build a BMI Calculator to determine Underweight, Overweight, and Normal weight person | [View Code](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_03_100DaysOfCode.py) |
+| 04 | C Language: More If...Else Statements | 16/03/24 | Build a Leap Year Calculator to determine if a given year is a leap year | [View Code](https://github.com/Sobilo34/my_practice/blob/main/C-Language/Day_04_100DaysOfCode.c) |
+| 05 | Python: Loops | 17/03/24 | Explore different types of loops in Python and write programs using them | [View Code](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_05_100DaysOfCode.py) |
+| 06 | JavaScript: Functions | 18/03/24 | Learn about functions in JavaScript and write programs using them | [View Codes](https://github.com/Sobilo34/my_practice/tree/main/Javascript/Day_06_100DaysOfCode_javascript) |
+
 
 
 ## My Contact
