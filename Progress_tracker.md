@@ -18,7 +18,7 @@
 **Challenges:**
 I have no challenge
 
-**View Codes Here:** [Codes_directory](https://github.com/Sobilo34/my_practice/tree/main/Javascipt/Day_01_100DaysOfCode_javascript)
+**View Code Here:** [Codes_directory](https://github.com/Sobilo34/my_practice/tree/main/Javascipt/Day_01_100DaysOfCode_javascript)
 
 **View Tweet:** [Day_01_tweet](https://twitter.com/sobil56/status/1768012295915860385?t=sb10jrPu8egsCjnSUQFI8g&s=19)
 
@@ -39,7 +39,7 @@ I have no challenge
 **Challenges:**
 I have network Isuue which makes me to submit lately. The network Issue is common to all Nigerians today 🤦‍♂️
 
-**View Codes Here:** [Code_File](https://github.com/Sobilo34/my_practice/blob/main/C-Language/Day_02_100DaysOfCode.c)
+**View Code Here:** [Code_File](https://github.com/Sobilo34/my_practice/blob/main/C-Language/Day_02_100DaysOfCode.c)
 
 **View Tweet:** [Day_02_tweet](https://twitter.com/sobil56/status/1768459804375204035?t=SzJhkt16QjD0Ryl5hEehRw&s=19)
 
@@ -63,7 +63,7 @@ I have network Isuue which makes me to submit lately. The network Issue is commo
 **Challenges:**
 I also have network Isuue which makes me to submit lately. The network Issue is common to all Nigerians
 
-**View Codes Here:** [Code_File](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_03_100DaysOfCode.py)
+**View Code Here:** [Code_File](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_03_100DaysOfCode.py)
 
 **View Tweet:** [Day_03_tweet](https://twitter.com/sobil56/status/1768759056473174436?t=KvzaEann3kt2gyfMdMjWyA&s=19)
 
@@ -84,7 +84,7 @@ I also have network Isuue which makes me to submit lately. The network Issue is 
 **Challenges:**
 The network Isuue still persist which makes me to submit lately. It's really affecting my progress 
 
-**View Codes Here:** [Code_File](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_03_100DaysOfCode.py)
+**View Code Here:** [Code_File](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_03_100DaysOfCode.py)
 
 **View Tweet:** [Day_04_tweet](https://twitter.com/sobil56/status/1768759056473174436?t=KvzaEann3kt2gyfMdMjWyA&s=19)
 
@@ -103,7 +103,7 @@ The network Isuue still persist which makes me to submit lately. It's really aff
 **Challenges:**
 No specific challenges encountered
 
-**View Codes Here:**
+**View Code Here:**
 [Code_File](https://github.com/Sobilo34/Crescent_MVP/blob/main/index.js)
 
 **View Tweet:** [Day_05_tweet](https://twitter.com/sobil56/status/1769637031326413000?t=ElK7cEmrYANBxVNqEDigrA&s=19)
@@ -124,7 +124,7 @@ No specific challenges encountered
 **Challenges:**
 No significant challenges encountered
 
-**View Codes Here:** [Code_File](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_06_100DaysOfCode.py)
+**View Code Here:** [Code_File](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_06_100DaysOfCode.py)
 
 **View Tweet:** [Day_06_tweet](https://twitter.com/sobil56/status/1769864789738627261?t=p6ZfazTqDNw2DYTaIvdjlQ&s=19)
 
@@ -143,7 +143,7 @@ No significant challenges encountered
 **Challenges:**
 Understanding the intricacies of ORM and mapping database objects to Python objects
 
-**View Codes Here:** [Code_File](https://github.com/Sobilo34/my_practice/tree/main/MySQL/Day_07_100DaysOfCode_SQL)
+**View Codes Here:** [Code_directory](https://github.com/Sobilo34/my_practice/tree/main/MySQL/Day_07_100DaysOfCode_SQL)
 
 **View Tweet:** [Day_07_tweet](https://twitter.com/sobil56/status/1770204351178354918?t=TK7HOGnN9p5rQtFb64aVHA&s=19)
 
