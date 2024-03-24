@@ -25,6 +25,10 @@
 | 05 | **JavaScript**: [Web Interactivity](Progress_tracker.md) | 17/03/24 | Added some interactivity to a website i'm building with my little knowlege in JavaScript | [**View Code**](https://github.com/Sobilo34/Crescent_MVP/blob/main/index.js) |
 | 06 | **Python**: [Game that finds Treasure](Progress_tracker.md) | 18/03/24 | Build a game that finds a treasure in a big house played by moving to diffent directions | [**View Code**](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_06_100DaysOfCode.py) |
 | 07 | **MySQL**: [Object Relational Mapper](Progress_tracker.md) | 19/03/24 | Revised the concept of ORM by waching the recording of a session by a mentor and coding along side with him | [**View Codes**](https://github.com/Sobilo34/my_practice/tree/main/MySQL/Day_07_100DaysOfCode_SQL) |
+| 08 | **Python**: [random() module](Progress_tracker.md) | 20/03/24 | Use random() module (randint specifically to bulid ROCK-PAPER-SCISSORS game | [**View Code**](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_08_100DaysOfCode.py) |
+| 09 | **C Language**: [Pointers](Progress_tracker.md) | 21/03/24 | Re-learn the concept of Pointers in C a build and simple program with it | [**View Code**](https://github.com/Sobilo34/my_practice/blob/main/C-Language/Day_09_100DaysOfCode.c) |
+| 10 | **C Language**: [Arrays, Strings and Pointers](Progress_tracker.md) | 22/03/24 |Re-learn the concept of Arrays, String and Pointers in C and build a simple program with it | [**View Code**](https://github.com/Sobilo34/my_practice/blob/main/C-Language/Day_10_100DaysOfCode.c) |
+| 11 | **C Language**: [Pointer to Pointer](Progress_tracker.md) | 23/03/24 | Re-learn the concept of Pointers to Pointers in C a build a simple program with it | [**View Codes**](https://github.com/Sobilo34/my_practice/blob/main/C-Language/Day_11_100DaysOfCode.c) |
 
 
 
