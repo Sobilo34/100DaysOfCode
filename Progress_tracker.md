@@ -148,7 +148,7 @@ Understanding the intricacies of ORM and mapping database objects to Python obje
 **View Tweet:** [Day_07_tweet](https://twitter.com/sobil56/status/1770204351178354918?t=TK7HOGnN9p5rQtFb64aVHA&s=19)
 
 
-## Day_08: Sat March 16, 2024 
+## Day_08: Wed March 20, 2024 
 
 **Language**: Python
 
@@ -166,72 +166,68 @@ Understanding the intricacies of ORM and mapping database objects to Python obje
 - Otherwise, it's a lose
 
 **Challenges:**
-The have poor elcetricity issue. I didn't submit on time
+My electricity was cut off by NEPA. I didn't submit on time
 
 **View Code Here:** [Code_File](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_08_100DaysOfCode.py)
 
-**View Tweet:** [Day_04_tweet](https://twitter.com/sobil56/status/1768759056473174436?t=KvzaEann3kt2gyfMdMjWyA&s=19)
+**View Tweet:** [Day_08_tweet](https://x.com/sobil56/status/1770808664217018489?s=20)
 
 
-## Day_09: Sun March 17, 2024 
+## Day_09: Thur March 21, 2024 
 
-**Language**: JavaScript 
+**Language**: C 
 
-**Topic**: Website Interactivity 
+**Topic**: Pointers
 
 **Notes:**
 
-- I used my little knowledge in JavaScript to update a project I'm working on currently 
-- The feature I added is a slide that slides different News/Events horizontally in a secondary school website 
+- I re-learn the concept of Pointers in C
+- The built a simple program with it
 
 **Challenges:**
-No specific challenges encountered
+The have elcetricity issue. My electricity was cut off by NEPA
 
 **View Code Here:**
 [Code_File](https://github.com/Sobilo34/Crescent_MVP/blob/main/index.js)
 
-**View Tweet:** [Day_05_tweet](https://twitter.com/sobil56/status/1769637031326413000?t=ElK7cEmrYANBxVNqEDigrA&s=19)
+**View Tweet:** [Day_09_tweet](https://x.com/sobil56/status/1770943413958885785?s=20)
 
-## Day_10: Mon March 18, 2024 
+## Day_10: Fri March 22, 2024 
 
-**Language**: Python
-
-**Topic**: Game that finds treasure 
-
-**Notes:**
-
-- With my python knowledge, I built a game that finds a treasure in a big house
-- The game is played by moving to different direction.
-- If the user moves to the wrong direction, the game will be over.
-- I enjoyed playing with python 
-
-**Challenges:**
-No significant challenges encountered
-
-**View Code Here:** [Code_File](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_06_100DaysOfCode.py)
-
-**View Tweet:** [Day_06_tweet](https://twitter.com/sobil56/status/1769864789738627261?t=p6ZfazTqDNw2DYTaIvdjlQ&s=19)
-
-
-## Day_11: Mon March 18, 2024 
-
-**Language**: Python
+**Language**: C
 
 **Topic**: Game that finds treasure 
 
 **Notes:**
 
-- With my python knowledge, I built a game that finds a treasure in a big house
-- The game is played by moving to different direction.
-- If the user moves to the wrong direction, the game will be over.
-- I enjoyed playing with python 
+- I re-learn the concept of Arrays, Strings and Pointers in C
+- The built a simple program with it 
 
 **Challenges:**
-No significant challenges encountered
+The have elcetricity issue. My electricity was cut off by NEPA
 
 **View Code Here:** [Code_File](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_06_100DaysOfCode.py)
 
-**View Tweet:** [Day_06_tweet](https://twitter.com/sobil56/status/1769864789738627261?t=p6ZfazTqDNw2DYTaIvdjlQ&s=19)
+**View Tweet:** [Day_10_tweet](https://x.com/sobil56/status/1771666229066919939?s=20)
+
+
+## Day_11: Sat March 23, 2024 
+
+**Language**: C
+
+**Topic**: Game that finds treasure 
+
+**Notes:**
+
+- I re-learn the concept of Pointer to  Pointer
+- The built a simple program with it 
+
+**Challenges:**
+Just restored my electricity that was being cut off by NEPA
+
+**View Code Here:** [Code_File](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_06_100DaysOfCode.py)
+
+**View Tweet:** [Day_11_tweet](https://x.com/sobil56/status/1771666229066919939?s=20)
 
 
 # My Contact
