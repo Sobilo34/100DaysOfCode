@@ -156,15 +156,19 @@ Understanding the intricacies of ORM and mapping database objects to Python obje
 
 **Notes:**
 
-- I revise conditional statements in C language particularly If...else statement
-- I built a leap hear calculator with C
-- If a year (a particular value) is being given to the program, it will calculates if it's a leap year or not.
-- It will then give message to the user telling if it's a leap year or not 
+- I revise random(0 module in python
+- I built a gsme with it named ROCK-PAPER-SCISSORS
+- The game let the user compete with computer.
+- It recieves either 0, 1 or 2 from user which stand for Rock, paper ans Scissors respectively
+- The computer then suggest a value among those three integers randomly
+- if user's choice is equal to computer's choice, it's a draw
+- If user's choice is 0 and computer's choice is 2 or if user's choice is 1 and computer's choice is  0 or if user's choice is 2 and computer's choice is 1, then it's a win
+- Otherwise, it's a lose
 
 **Challenges:**
-The network Isuue still persist which makes me to submit lately. It's really affecting my progress 
+The have poor elcetricity issue. I didn't submit on time
 
-**View Code Here:** [Code_File](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_03_100DaysOfCode.py)
+**View Code Here:** [Code_File](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_08_100DaysOfCode.py)
 
 **View Tweet:** [Day_04_tweet](https://twitter.com/sobil56/status/1768759056473174436?t=KvzaEann3kt2gyfMdMjWyA&s=19)
 
