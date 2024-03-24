@@ -224,7 +224,7 @@ The have elcetricity issue. My electricity was cut off by NEPA
 
 - I re-learn the concept of Pointer to  Pointer
 - The built a simple program with it
-- I attented a Consistency & Descipline session hosted by [@huterxcobby]() and [@danieldohou]()
+- I attented a Consistency & Descipline session hosted by [@cobbysefah](https://twitter.com/hunterxcobby) and [@danieldohou](https://twitter.com/DohouDaniel10/)
 
 **Challenges:**
 Just restored my electricity that was being cut off by NEPA
@@ -232,8 +232,6 @@ Just restored my electricity that was being cut off by NEPA
 **View Code Here:** [Code_File](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_06_100DaysOfCode.py)
 
 **View Tweet:** [Day_11_tweet](https://x.com/sobil56/status/1771666229066919939?s=20)
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day_10 || Day_11 of <a href="https://twitter.com/hashtag/100DaysofAlxSE?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysofAlxSE</a> <a href="https://twitter.com/hashtag/100daysofcodechallenge?src=hash&amp;ref_src=twsrc%5Etfw">#100daysofcodechallenge</a><br>In C, I learned<br>* More on Pointer arrays and strings<br>* Revised Pointers to Pointers<br>* Studied my previous projects on the concept<br>* Attend a session on building good consistency hosted by <a href="https://twitter.com/hunterxcobby?ref_src=twsrc%5Etfw">@hunterxcobby</a><br> &amp; <a href="https://twitter.com/DohouDaniel10?ref_src=twsrc%5Etfw">@DohouDaniel10</a> <a href="https://t.co/mtkbadGmWS">pic.twitter.com/mtkbadGmWS</a></p>&mdash; Sobil (@sobil56) <a href="https://twitter.com/sobil56/status/1771666229066919939?ref_src=twsrc%5Etfw">March 23, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 # My Contact
 
