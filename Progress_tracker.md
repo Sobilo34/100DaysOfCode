@@ -156,7 +156,7 @@ Understanding the intricacies of ORM and mapping database objects to Python obje
 
 **Notes:**
 
-- I revise random(0 module in python
+- I revise random() module in python
 - I built a gsme with it named ROCK-PAPER-SCISSORS
 - The game let the user compete with computer.
 - It recieves either 0, 1 or 2 from user which stand for Rock, paper ans Scissors respectively
