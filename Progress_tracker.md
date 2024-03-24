@@ -148,6 +148,86 @@ Understanding the intricacies of ORM and mapping database objects to Python obje
 **View Tweet:** [Day_07_tweet](https://twitter.com/sobil56/status/1770204351178354918?t=TK7HOGnN9p5rQtFb64aVHA&s=19)
 
 
+## Day_08: Sat March 16, 2024 
+
+**Language**: Python
+
+**Topic**: random() module
+
+**Notes:**
+
+- I revise conditional statements in C language particularly If...else statement
+- I built a leap hear calculator with C
+- If a year (a particular value) is being given to the program, it will calculates if it's a leap year or not.
+- It will then give message to the user telling if it's a leap year or not 
+
+**Challenges:**
+The network Isuue still persist which makes me to submit lately. It's really affecting my progress 
+
+**View Code Here:** [Code_File](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_03_100DaysOfCode.py)
+
+**View Tweet:** [Day_04_tweet](https://twitter.com/sobil56/status/1768759056473174436?t=KvzaEann3kt2gyfMdMjWyA&s=19)
+
+
+## Day_09: Sun March 17, 2024 
+
+**Language**: JavaScript 
+
+**Topic**: Website Interactivity 
+
+**Notes:**
+
+- I used my little knowledge in JavaScript to update a project I'm working on currently 
+- The feature I added is a slide that slides different News/Events horizontally in a secondary school website 
+
+**Challenges:**
+No specific challenges encountered
+
+**View Code Here:**
+[Code_File](https://github.com/Sobilo34/Crescent_MVP/blob/main/index.js)
+
+**View Tweet:** [Day_05_tweet](https://twitter.com/sobil56/status/1769637031326413000?t=ElK7cEmrYANBxVNqEDigrA&s=19)
+
+## Day_10: Mon March 18, 2024 
+
+**Language**: Python
+
+**Topic**: Game that finds treasure 
+
+**Notes:**
+
+- With my python knowledge, I built a game that finds a treasure in a big house
+- The game is played by moving to different direction.
+- If the user moves to the wrong direction, the game will be over.
+- I enjoyed playing with python 
+
+**Challenges:**
+No significant challenges encountered
+
+**View Code Here:** [Code_File](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_06_100DaysOfCode.py)
+
+**View Tweet:** [Day_06_tweet](https://twitter.com/sobil56/status/1769864789738627261?t=p6ZfazTqDNw2DYTaIvdjlQ&s=19)
+
+
+## Day_11: Mon March 18, 2024 
+
+**Language**: Python
+
+**Topic**: Game that finds treasure 
+
+**Notes:**
+
+- With my python knowledge, I built a game that finds a treasure in a big house
+- The game is played by moving to different direction.
+- If the user moves to the wrong direction, the game will be over.
+- I enjoyed playing with python 
+
+**Challenges:**
+No significant challenges encountered
+
+**View Code Here:** [Code_File](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_06_100DaysOfCode.py)
+
+**View Tweet:** [Day_06_tweet](https://twitter.com/sobil56/status/1769864789738627261?t=p6ZfazTqDNw2DYTaIvdjlQ&s=19)
 
 
 # My Contact
