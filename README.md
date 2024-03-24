@@ -19,7 +19,7 @@
 | Day | Topic | Date | Description | Codebase |
 |:---:|:-----:|:----:|:------------|:-----|
 | 01 | **JavaScript**: [Objects, Scopes and Closure](Progress_tracker.md) | 13/03/24 | Learn Objects, Scopes, and Closure in JavaScript | [**View Codes**](https://github.com/Sobilo34/my_practice/tree/main/Javascript/Day_01_100DaysOfCode_javascript) |
-| 02 | **C Language**: [Pointers, Arrays and Strings](Progress_tracker.md) | 14/03/24 | Revise the concept of Pointers, Arrays, and Strings in C and write a program with it | [**View Code**](https://github.com/Sobilo34/my_practice/blob/main/C-Language/Day_02_100DaysOfCode.c) |
+| 02 | **C Language**: [Pointers, Arrays and Strings](https://github.com/Sobilo34/100DaysOfCode/blob/main/Progress_tracker.md#day_02-thur-march-14-2024) | 14/03/24 | Revise the concept of Pointers, Arrays, and Strings in C and write a program with it | [**View Code**](https://github.com/Sobilo34/my_practice/blob/main/C-Language/Day_02_100DaysOfCode.c) |
 | 03 | **Python**: [If...Else Statements](Progress_tracker.md) | 15/03/24 | Build a BMI Calculator to determine Underweight, Overweight, and Normal weight person | [**View Code**](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_03_100DaysOfCode.py) |
 | 04 | **C Language**: [More If...Else Statements](Progress_tracker.md) | 16/03/24 | Build a Leap Year Calculator to determine if a given year is a leap year | [**View Code**](https://github.com/Sobilo34/my_practice/blob/main/C-Language/Day_04_100DaysOfCode.c) |
 | 05 | **JavaScript**: [Web Interactivity](Progress_tracker.md) | 17/03/24 | Added some interactivity to a website i'm building with my little knowlege in JavaScript | [**View Code**](https://github.com/Sobilo34/Crescent_MVP/blob/main/index.js) |
