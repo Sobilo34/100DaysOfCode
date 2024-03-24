@@ -28,7 +28,7 @@
 | 08 | **Python**: [random() module](Progress_tracker.md) | 20/03/24 | Use random() module (randint specifically to bulid ROCK-PAPER-SCISSORS game | [**View Code**](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_08_100DaysOfCode.py) |
 | 09 | **C Language**: [Pointers](Progress_tracker.md) | 21/03/24 | Re-learn the concept of Pointers in C a build and simple program with it | [**View Code**](https://github.com/Sobilo34/my_practice/blob/main/C-Language/Day_09_100DaysOfCode.c) |
 | 10 | **C Language**: [Arrays, Strings and Pointers](Progress_tracker.md) | 22/03/24 |Re-learn the concept of Arrays, String and Pointers in C and build a simple program with it | [**View Code**](https://github.com/Sobilo34/my_practice/blob/main/C-Language/Day_10_100DaysOfCode.c) |
-| 11 | **C Language**: [Pointer to Pointer](Progress_tracker.md) | 23/03/24 | Re-learn the concept of Pointers to Pointers in C a build a simple program with it | [**View Codes**](https://github.com/Sobilo34/my_practice/blob/main/C-Language/Day_11_100DaysOfCode.c) |
+| 11 | **C Language**: [Pointer to Pointer](Progress_tracker.md) | 23/03/24 | Re-learn the concept of Pointer to Pointer in C a build a simple program with it | [**View Codes**](https://github.com/Sobilo34/my_practice/blob/main/C-Language/Day_11_100DaysOfCode.c) |
 
 
 
