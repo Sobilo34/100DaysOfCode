@@ -225,6 +225,7 @@ The have elcetricity issue. My electricity was cut off by NEPA
 - I re-learn the concept of Pointer to  Pointer
 - The built a simple program with it
 - I attented a Consistency & Descipline session hosted by [@cobbysefah](https://twitter.com/hunterxcobby) and [@danieldohou](https://twitter.com/DohouDaniel10/)
+- The lecturer for the session is [Mr. Kwasi Boateng](https://twitter.com/Snr_kwasi/)
 
 **Challenges:**
 Just restored my electricity that was being cut off by NEPA
