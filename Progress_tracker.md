@@ -15,7 +15,7 @@
 - Closures are functions that encapsulate variables from their parent functions
 - Many Live examples have been solved to explain the concept. View the codes in the link below:
 
-**Challenges:**
+**Challenge:**
 I have no challenge
 
 **View Code Here:** [Codes_directory](https://github.com/Sobilo34/my_practice/tree/main/Javascipt/Day_01_100DaysOfCode_javascript)
@@ -36,7 +36,7 @@ I have no challenge
 -  I write a program to learn more about the concept
 -  The program receives String for a User and prints out the ASCII value of it lowercase
 
-**Challenges:**
+**Challenge:**
 I have network Isuue which makes me to submit lately. The network Issue is common to all Nigerians today 🤦‍♂️
 
 **View Code Here:** [Code_File](https://github.com/Sobilo34/my_practice/blob/main/C-Language/Day_02_100DaysOfCode.c)
@@ -60,7 +60,7 @@ I have network Isuue which makes me to submit lately. The network Issue is commo
 - Formula for BMI = weight(kg) / height(m) ** 2
 - The Program categorizes each individuals to Underweight, Normal weight, Obesed and Clinically Obesed with respect to their BMI 
 
-**Challenges:**
+**Challenge:**
 I also have network Isuue which makes me to submit lately. The network Issue is common to all Nigerians
 
 **View Code Here:** [Code_File](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_03_100DaysOfCode.py)
@@ -81,7 +81,7 @@ I also have network Isuue which makes me to submit lately. The network Issue is 
 - If a year (a particular value) is being given to the program, it will calculates if it's a leap year or not.
 - It will then give message to the user telling if it's a leap year or not 
 
-**Challenges:**
+**Challengesl:**
 The network Isuue still persist which makes me to submit lately. It's really affecting my progress 
 
 **View Code Here:** [Code_File](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_03_100DaysOfCode.py)
@@ -100,7 +100,7 @@ The network Isuue still persist which makes me to submit lately. It's really aff
 - I used my little knowledge in JavaScript to update a project I'm working on currently 
 - The feature I added is a slide that slides different News/Events horizontally in a secondary school website 
 
-**Challenges:**
+**Challenge:**
 No specific challenges encountered
 
 **View Code Here:**
@@ -121,7 +121,7 @@ No specific challenges encountered
 - If the user moves to the wrong direction, the game will be over.
 - I enjoyed playing with python 
 
-**Challenges:**
+**Challenge:**
 No significant challenges encountered
 
 **View Code Here:** [Code_File](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_06_100DaysOfCode.py)
@@ -140,7 +140,7 @@ No significant challenges encountered
 - Watched a recording of a session by a mentor and coded along with them to understand how ORM works
 - Explored libraries and frameworks that implement ORM for database management
 
-**Challenges:**
+**Challenge:**
 Understanding the intricacies of ORM and mapping database objects to Python objects
 
 **View Codes Here:** [Code_directory](https://github.com/Sobilo34/my_practice/tree/main/MySQL/Day_07_100DaysOfCode_SQL)
@@ -165,7 +165,7 @@ Understanding the intricacies of ORM and mapping database objects to Python obje
 - If user's choice is 0 and computer's choice is 2 or if user's choice is 1 and computer's choice is  0 or if user's choice is 2 and computer's choice is 1, then it's a win
 - Otherwise, it's a lose
 
-**Challenges:**
+**Challenge:**
 My electricity was cut off by NEPA. I didn't submit on time
 
 **View Code Here:** [Code_File](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_08_100DaysOfCode.py)
@@ -187,7 +187,7 @@ My electricity was cut off by NEPA. I didn't submit on time
 - The topic of the PLD session in AirBnB - MySQL
 - It focus on how to create a database for AirBnB website and testing it
 
-**Challenges:**
+**Challenge:**
 The have elcetricity issue. My electricity was cut off by NEPA
 
 **View Code Here:**
@@ -206,7 +206,7 @@ The have elcetricity issue. My electricity was cut off by NEPA
 - I re-learn the concept of Arrays, Strings and Pointers in C
 - The built a simple program with it 
 
-**Challenges:**
+**Challenge:**
 The have elcetricity issue. My electricity was cut off by NEPA
 
 **View Code Here:** [Code_File](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_06_100DaysOfCode.py)
@@ -227,7 +227,7 @@ The have elcetricity issue. My electricity was cut off by NEPA
 - I attented a Consistency & Descipline session hosted by [@cobbysefah](https://twitter.com/hunterxcobby) and [@danieldohou](https://twitter.com/DohouDaniel10/)
 - The lecturer for the session is [Mr. Kwasi Boateng](https://twitter.com/Snr_kwasi/)
 
-**Challenges:**
+**Challenge:**
 Just restored my electricity that was being cut off by NEPA
 
 **View Code Here:** [Code_File](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_06_100DaysOfCode.py)
