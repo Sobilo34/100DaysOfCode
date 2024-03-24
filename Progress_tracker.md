@@ -101,7 +101,7 @@ The network Isuue still persist which makes me to submit lately. It's really aff
 - The feature I added is a slide that slides different News/Events horizontally in a secondary school website 
 
 **Challenge:**
-No specific challenges encountered
+No significant challenges encountered
 
 **View Code Here:**
 [Code_File](https://github.com/Sobilo34/Crescent_MVP/blob/main/index.js)
