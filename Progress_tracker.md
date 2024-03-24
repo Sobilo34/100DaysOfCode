@@ -188,7 +188,7 @@ My electricity was cut off by NEPA. I didn't submit on time
 - It focus on how to create a database for AirBnB website and testing it
 
 **Challenge:**
-The have elcetricity issue. My electricity was cut off by NEPA
+I have elcetricity issue. My electricity was cut off by NEPA
 
 **View Code Here:**
 [Code_File](https://github.com/Sobilo34/Crescent_MVP/blob/main/index.js)
@@ -207,7 +207,7 @@ The have elcetricity issue. My electricity was cut off by NEPA
 - The built a simple program with it 
 
 **Challenge:**
-The have elcetricity issue. My electricity was cut off by NEPA
+I have elcetricity issue. My electricity was cut off by NEPA
 
 **View Code Here:** [Code_File](https://github.com/Sobilo34/my_practice/blob/main/Python/Day_06_100DaysOfCode.py)
 
